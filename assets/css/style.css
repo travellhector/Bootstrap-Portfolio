@@ -1,0 +1,218 @@
+
+.myHead{
+    height: 70px;
+    border-bottom: #cccccc solid 3px;
+    background-color: white;
+ 
+}
+
+/*
+
+section {
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+    overflow: auto;
+    
+    
+}
+*/
+
+body{
+    background-image: url("../images/concrete.png");
+    background-repeat: repeat-x repeat-y;
+    background-color: grey;
+
+}
+
+ .myHead h1{
+    background: #4aaaa5;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+
+}
+
+/*
+
+.nav{
+    float: left;
+}
+
+#navBar{
+    float: right;
+}
+*/
+
+.myContent{
+    border: 2px solid #cccccc;
+    background: white;
+
+}
+
+.myContent h1{
+   /* padding: 30px 0px;*/
+    color: #4aaaa5;
+    font-size: 30px;
+    font-weight: bold;
+   /* margin: 0 0 30px 0;
+    border-bottom: 3px solid #cccccc;*/
+
+}
+
+
+
+.mySocial{
+    border: 2px solid #cccccc;
+    background: white;
+
+}
+
+
+
+.mySocial h1{
+    /*padding: 20px 0px;*/
+    color: #4aaaa5;
+    font-size: 25px;
+    font-weight: bold;
+   /* margin: 0 0 20px 0;
+    border-bottom: 2px solid #cccccc;*/
+
+}
+
+#social a{
+    margin: 20px 10px;
+    text-decoration: none;
+}
+
+*/
+
+#me{
+    width: 250px;
+
+}
+
+/*
+
+p{
+    font-size: 20px;
+    color: #777777;
+}
+
+footer{
+    height: 94px;
+    border-top: 7px solid #4aaaa5;
+    width: 100%;
+    text-align: center;
+    clear: both;
+    background: #666666;
+
+}
+
+footer p{
+    font-size: 15px;
+    padding-top: 30px;
+    color: white;
+}
+
+#nav a:link{
+    color: #777777;
+    text-decoration: none;
+
+}
+#navBar a:visited{
+    color: #777777;
+    text-decoration: none;
+
+}
+#navBar a:active{
+    color:red;
+    
+
+}
+
+.nav a{
+    padding: 0 15px;
+    text-decoration: none;
+
+}
+
+#navBar a:hover{
+    color: red;
+    background: white;
+   
+}
+
+#navMid {
+    border-left: #777777 1px solid;
+    border-right: #777777 1px solid;
+}
+
+#navBar{
+    padding-top: 35px;
+}
+
+*/
+
+/*
+hr{
+    height: 2px;
+    background-color: #777777;
+    margin: 1px;
+}
+*/
+
+/*container for my header to creat grey line at bottum of header section*/
+
+/*
+
+#container {
+    border-bottom: #cccccc solid 3px;
+}
+
+
+.field{
+    width: 96%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.rows{
+    clear: both;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.left{
+    float: left;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.right{
+    float: right;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+*/
+
+.myContent img{
+    width: 300px;
+}
+
+/*
+.button{
+    color: white;
+    background: #4aaaa5;
+    padding: 10px;
+    font-size: 20px;
+}
+
+*/
